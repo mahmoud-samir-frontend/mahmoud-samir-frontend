@@ -8,6 +8,7 @@ I build responsive web and mobile products, real-time monitoring dashboards, and
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-samir587766247)
 [![Email](https://img.shields.io/badge/Email-Mahmoud.samirr148%40gmail.com-26a17b?style=flat-square&logo=gmail&logoColor=white)](mailto:Mahmoud.samirr148@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-5ee0c1?style=flat-square&logo=angular&logoColor=071014)](https://mahmoud-samir-portfolio.plumape11.chatgpt.site)
 
 </div>
 
@@ -61,3 +62,4 @@ Reliable API integration  ·  Fast interfaces  ·  Maintainable systems
 - LinkedIn: [mahmoud-samir587766247](https://www.linkedin.com/in/mahmoud-samir587766247)
 - Email: [Mahmoud.samirr148@gmail.com](mailto:Mahmoud.samirr148@gmail.com)
 - GitHub: [@mahmoudsamir-design](https://github.com/mahmoudsamir-design)
+- Portfolio: [mahmoud-samir-portfolio.plumape11.chatgpt.site](https://mahmoud-samir-portfolio.plumape11.chatgpt.site)
