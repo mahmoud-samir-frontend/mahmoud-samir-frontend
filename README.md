@@ -6,7 +6,7 @@
 
 I build responsive web and mobile products, real-time monitoring dashboards, and maintainable frontend systems. I have 3+ years of professional experience and I’m open to fully remote international Frontend and Angular opportunities.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-samir587766247)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-samir-mahmoud/)
 [![Email](https://img.shields.io/badge/Email-Mahmoud.samirr148%40gmail.com-26a17b?style=flat-square&logo=gmail&logoColor=white)](mailto:Mahmoud.samirr148@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-5ee0c1?style=flat-square&logo=angular&logoColor=071014)](https://mahmoudsamir-design.github.io/mahmoud-portfolio/)
 
@@ -43,8 +43,8 @@ An Angular 20 portfolio with a typed, component-driven architecture, accessible 
 
 ### Full product implementations
 
-- **SCOUTIFAI** — an Angular 19 sports-performance platform covering players, teams, training, matches, wellness, medical workflows, analytics, roles, and bilingual presentation
-- **NovaDash (Fuinco Admin Dashboard)** — one complete React, TypeScript, FastAPI, and SQLite content-management product designed and built end to end
+- **[SCOUTIFAI](https://github.com/mahmoudsamir-design/scoutifai)** — an Angular 19 sports-performance platform covering players, teams, training, matches, wellness, medical workflows, analytics, roles, and bilingual presentation
+- **[NovaDash (Fuinco Admin Dashboard)](https://github.com/mahmoudsamir-design/nova-dashboard)** — one complete React, TypeScript, FastAPI, and SQLite content-management product designed and built end to end
 
 ### Selected professional projects
 
@@ -64,7 +64,7 @@ Reliable API integration  ·  Fast interfaces  ·  Maintainable systems
 
 ## Let's connect
 
-- LinkedIn: [mahmoud-samir587766247](https://www.linkedin.com/in/mahmoud-samir587766247)
+- LinkedIn: [mahmoud-samir-mahmoud](https://www.linkedin.com/in/mahmoud-samir-mahmoud/)
 - Email: [Mahmoud.samirr148@gmail.com](mailto:Mahmoud.samirr148@gmail.com)
 - GitHub: [@mahmoudsamir-design](https://github.com/mahmoudsamir-design)
 - Portfolio: [mahmoudsamir-design.github.io/mahmoud-portfolio](https://mahmoudsamir-design.github.io/mahmoud-portfolio/)
