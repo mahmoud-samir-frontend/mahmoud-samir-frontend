@@ -44,7 +44,7 @@ An Angular 20 portfolio with a typed, component-driven architecture, accessible 
 ### Full product implementations
 
 - **SCOUTIFAI** — an Angular 19 sports-performance platform covering players, teams, training, matches, wellness, medical workflows, analytics, roles, and bilingual presentation
-- **Fuinco Admin Dashboard** — a complete React, TypeScript, FastAPI, and SQLite content-management product designed and built end to end
+- **NovaDash (Fuinco Admin Dashboard)** — one complete React, TypeScript, FastAPI, and SQLite content-management product designed and built end to end
 
 ### Selected professional projects
 
