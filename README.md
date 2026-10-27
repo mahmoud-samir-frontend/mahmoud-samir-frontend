@@ -39,7 +39,12 @@ I build responsive web and mobile products, real-time monitoring dashboards, and
 
 ### [Professional Portfolio](https://github.com/mahmoudsamir-design/mahmoud-portfolio)
 
-An Angular 20 portfolio with a typed, component-driven architecture, accessible dark/light themes, and verified privacy-safe case studies for fleet tracking, environmental monitoring, logistics, and transportation products.
+An Angular 20 portfolio with a typed, component-driven architecture, accessible dark/light themes, and verified case studies captured from running product builds.
+
+### Full product implementations
+
+- **SCOUTIFAI** — an Angular 19 sports-performance platform covering players, teams, training, matches, wellness, medical workflows, analytics, roles, and bilingual presentation
+- **Fuinco Admin Dashboard** — a complete React, TypeScript, FastAPI, and SQLite content-management product designed and built end to end
 
 ### Selected professional projects
 
